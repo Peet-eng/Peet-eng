@@ -14,10 +14,9 @@ turning what I've learned into practical projects.
 
 ### 📚 Currently Learning
 
-- 🐍 Python
-- 🌐 APIs & API Testing
-- 💻 HTML & CSS
-- 🔧 Git & GitHub
+![My Skills](https://skillicons.dev/icons?i=py,html,css,postman,git,github,vscode&theme=light)
+
+Python • HTML • CSS • API Testing • Git • GitHub • VS Code
 
 ## 🚀 My Projects
 
