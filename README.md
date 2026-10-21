@@ -1,5 +1,5 @@
 # Hi, I'm Pieter! 👋
-
+![Profile Views](https://komarev.com/ghpvc/?username=Peet-eng&color=blue&style=flat-square)
 Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
